@@ -1,0 +1,32 @@
+# robots.txt برای مجموعه تجاری فاضل
+# تمام موتورهای جستجو مجاز به خزیدن در کل سایت هستند
+User-agent: *
+Allow: /
+
+# مسیرهای غیرضروری برای ایندکس (مانند assets و تصاویر)
+Disallow: /assets/
+Disallow: /images/
+
+# برای جلوگیری از ایندکس شدن صفحات خاص (در صورت نیاز)
+# Disallow: /shops/carbist.html
+# Disallow: /shops/parc.html
+# Disallow: /shops/mosaddegh.html
+
+# معرفی نقشه‌ی سایت (sitemap) برای کمک به خزش بهتر
+Sitemap: https://fazel-complex.ir/sitemap.xml
+
+# زمان بازدید مجدد (به‌روزرسانی محتوا)
+Crawl-delay: 2
+
+# تعیین موتورهای جستجوی خاص (اختیاری)
+# User-agent: Googlebot
+# Allow: /
+# User-agent: Bingbot
+# Allow: /
+
+# مسدود کردن ربات‌های مخرب (اختیاری)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
