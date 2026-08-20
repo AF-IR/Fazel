@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- ===== صفحات اصلی ===== -->
+    <!-- صفحه اصلی (بیشترین اولویت) -->
+    <url>
+        <loc>https://fazel-complex.ir/index.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- درباره ما -->
+    <url>
+        <loc>https://fazel-complex.ir/about.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- خدمات -->
+    <url>
+        <loc>https://fazel-complex.ir/services.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- طبقات -->
+    <url>
+        <loc>https://fazel-complex.ir/floors.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- دکان‌ها (لیست اصلی) -->
+    <url>
+        <loc>https://fazel-complex.ir/shops.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- ===== صفحات اختصاصی دکان‌ها ===== -->
+    <!-- کاربیست -->
+    <url>
+        <loc>https://fazel-complex.ir/shops/carbist.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- کافی‌نت پارک -->
+    <url>
+        <loc>https://fazel-complex.ir/shops/parc.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- رستوران دکتر مصدق -->
+    <url>
+        <loc>https://fazel-complex.ir/shops/mosaddegh.html</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
